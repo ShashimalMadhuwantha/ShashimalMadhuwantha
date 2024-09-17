@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashimal Madhuwantha Nanayakkara</h1>
-<h3 align="center">A passionate frontend developer from SriLanka</h3>
+<h3 align="center">A passionate backend developer from SriLanka</h3>
 
 
 
