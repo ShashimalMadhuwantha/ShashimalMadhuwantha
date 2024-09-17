@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at NIBM**
 
-- 💬 Ask me about **JAVA/PHP**
+- 💬 Ask me about **JAVA/PHP/C#**
 
 - 📫 How to reach me **shashimalmadhuwantha12@gmail.com**
 
