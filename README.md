@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashimalmadhuwantha&show_icons=true&locale=en&layout=compact" alt="shashimalmadhuwantha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashimalmadhuwantha&show_icons=true&locale=en" alt="shashimalmadhuwantha" /></p>
+
+<img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/e82bf264-45ed-4663-8cbb-ba346159410d.svg">
