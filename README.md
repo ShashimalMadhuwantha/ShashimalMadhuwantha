@@ -21,7 +21,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="[https://linkedin.com/in/shashimal-madhuwantha](https://www.linkedin.com/in/shashimal-madhuwantha-82b74431b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shashimal-madhuwantha-82b74431b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/_shashimal" target="_blank">
