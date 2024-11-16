@@ -1,29 +1,67 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Banner" width="30%" height="10%" >
+</h1>
+
 <h1 align="center">Hi 👋, I'm Shashimal Madhuwantha Nanayakkara</h1>
-<h3 align="center">A passionate backend developer from SriLanka</h3>
+<h3 align="center">A passionate Backend Developer | Undergraduate from National Institute of Bussiness Management 🌍</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashimalmadhuwantha&label=Profile%20views&color=0e75b6&style=flat" alt="shashimalmadhuwantha" /> </p>
-
-- 🔭 I’m currently working on **QueuePro Project**
-
-- 🌱 I’m currently learning **Software Engineering at NIBM**
-
-- 💬 Ask me about **JAVA/PHP/C#**
-
-- 📫 How to reach me **shashimalmadhuwantha12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shashimal madhuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashimal madhuwantha" height="30" width="40" /></a>
-<a href="https://instagram.com/_shashimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shashimal" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashimalmadhuwantha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashimalmadhuwantha&show_icons=true&locale=en&layout=compact" alt="shashimalmadhuwantha" /></p>
+### 🚀 About Me
+- 🔭 I’m currently working on **[QueuePro Project](#)**
+- 🌱 I’m currently learning **Software Engineering at NIBM**
+- 💬 Ask me about **Java, PHP, C#, HTML , C , JavaScripts , React.js**
+- 📫 Reach me at **shashimalmadhuwantha12@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashimalmadhuwantha&show_icons=true&locale=en" alt="shashimalmadhuwantha" /></p>
+---
 
-<img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/e82bf264-45ed-4663-8cbb-ba346159410d.svg">
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/shashimal-madhuwantha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_shashimal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Skills and Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashimalmadhuwantha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashimalmadhuwantha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ⏳ Coding Activity
+<p align="center">
+  <img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/e82bf264-45ed-4663-8cbb-ba346159410d.svg" alt="Coding Activity" />
+</p>
+
+---
+
+### 🌟 Fun Fact
+*I firmly believe in continuous learning and enjoy turning ideas into reality with my code.*
+
+---
+
+✨ **Thanks for stopping by!** Feel free to explore my repositories and connect with me. Let's create something amazing together!
