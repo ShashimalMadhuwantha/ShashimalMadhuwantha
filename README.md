@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Shashimal Madhuwantha Nanayakkara</h1>
-<h3 align="center">A passionate Backend Developer | Undergraduate from National Institute of Bussiness Management 🌍</h3>
+<h3 align="center">A passionate Backend Developer | Undergraduate from National Institute of Business Management 🌍</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashimalmadhuwantha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,7 +14,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on **[QueuePro Project](#)**
 - 🌱 I’m currently learning **Software Engineering at NIBM**
-- 💬 Ask me about **Java, PHP, C#, HTML , C , JavaScripts , React.js**
+- 💬 Ask me about **Java, PHP, C#, HTML, C, JavaScript, React.js**
 - 📫 Reach me at **shashimalmadhuwantha12@gmail.com**
 
 ---
@@ -46,18 +46,16 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashimalmadhuwantha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashimalmadhuwantha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashimalmadhuwantha&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashimalmadhuwantha&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
 
 ### ⏳ Coding Activity
 <p align="center">
-  <img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/e82bf264-45ed-4663-8cbb-ba346159410d.svg" alt="Coding Activity" />
-</p>
-<p align="center">
-  <img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/7910cfa6-81f3-4c18-9ad2-2f5bafa79e38.svg" alt="Coding Activity" />
+  <img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/e82bf264-45ed-4663-8cbb-ba346159410d.svg" alt="Coding Activity 1" />
+  <img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/7910cfa6-81f3-4c18-9ad2-2f5bafa79e38.svg" alt="Coding Activity 2" />
 </p>
 
 ---
