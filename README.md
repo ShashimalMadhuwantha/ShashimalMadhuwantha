@@ -56,6 +56,9 @@
 <p align="center">
   <img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/e82bf264-45ed-4663-8cbb-ba346159410d.svg" alt="Coding Activity" />
 </p>
+<p align="center">
+  <img src="https://wakatime.com/share/@0283a1db-ade2-43f4-a544-83145c2b1301/7910cfa6-81f3-4c18-9ad2-2f5bafa79e38.svg" alt="Coding Activity" />
+</p>
 
 ---
 
