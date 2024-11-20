@@ -12,7 +12,7 @@
 <hr />
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[QueuePro Project](#)**
+- 🔭 I’m currently working on **[CryptoLens Project](#)**
 - 🌱 I’m currently learning **Software Engineering at NIBM**
 - 💬 Ask me about **Java, PHP, C#, HTML, C, JavaScript, React.js**
 - 📫 Reach me at **shashimalmadhuwantha12@gmail.com**
