@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashimalmadhuwantha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://wakatime.com/badge/user/0283a1db-ade2-43f4-a544-83145c2b1301.svg">
 </p>
 
 <hr />
