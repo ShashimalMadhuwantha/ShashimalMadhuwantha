@@ -160,11 +160,14 @@ Backend-oriented full-stack developer and ML enthusiast, passionate about buildi
 
 <hr />
 
-### 🧊 3D Contribution Graph
+// ...existing code...
+
+## 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShashimalMadhuwantha/ShashimalMadhuwantha/output/profile-3d-contrib/profile.svg" alt="3D Contribution Graph" />
-  
+  <img src="https://raw.githubusercontent.com/ShashimalMadhuwantha/ShashimalMadhuwantha/output/profile-3d-contrib/profile-3d.svg" alt="3D Contribution Graph" />
 </p>
+
+// ...existing code...
 
 <hr />
 

@@ -2,10 +2,10 @@ name: Generate 3D contribution graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily at 00:00 UTC
+    - cron: "0 3 * * *"
   workflow_dispatch:
   push:
-    branches: [ "main" ]
+    branches: [ main, master ]
 
 permissions:
   contents: write
@@ -14,9 +14,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
-      - name: Generate 3D profile
+
+      - name: Generate 3D graph
         uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -24,23 +25,22 @@ jobs:
 
       - name: Normalize output filename
         run: |
-          set -e
-          cd profile-3d-contrib
-          target=""
-          for f in profile-night-rainbow.svg profile-green-animate.svg profile-season-animate.svg profile-*.svg; do
-            if [ -f "$f" ]; then target="$f"; break; fi
+          ls -la profile-3d-contrib || true
+          # Prefer a known theme; fallback to the first SVG found
+          for f in profile-3d-contrib/profile-night-rainbow.svg \
+                   profile-3d-contrib/profile-gitblock.svg \
+                   profile-3d-contrib/profile-green-animate.svg; do
+            if [ -f "$f" ]; then
+              cp -f "$f" profile-3d-contrib/profile-3d.svg
+              break
+            fi
           done
-          if [ -z "$target" ]; then
-            target=$(ls -1 *.svg | head -n 1 || true)
+          if [ ! -f profile-3d-contrib/profile-3d.svg ]; then
+            cp -f "$(ls profile-3d-contrib/*.svg | head -n 1)" profile-3d-contrib/profile-3d.svg
           fi
-          if [ -n "$target" ]; then
-            cp "$target" profile.svg
-          else
-            echo "No SVG generated" >&2
-            exit 1
-          fi
+          ls -la profile-3d-contrib
 
-      - name: Publish images to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
