@@ -1,0 +1,31 @@
+name: Generate 3D contribution graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Generate 3D profile
+        uses: yoshi389111/github-profile-3d-contrib@v2
+        with:
+          username: ShashimalMadhuwantha
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish images to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

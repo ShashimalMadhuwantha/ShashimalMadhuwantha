@@ -160,6 +160,13 @@ Backend-oriented full-stack developer and ML enthusiast, passionate about buildi
 
 <hr />
 
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShashimalMadhuwantha/ShashimalMadhuwantha/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
+<hr />
+
 ### ⏳ Coding Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shashimal&theme=radical&hide_border=true&range=last_30_days" alt="WakaTime Stats (Last 30 Days)" />
