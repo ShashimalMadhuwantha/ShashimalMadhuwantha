@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
       - name: Generate 3D profile
-        uses: yoshi389111/github-profile-3d-contrib@v2
+        uses: yoshi389111/github-profile-3d-contrib@main
         with:
           username: ShashimalMadhuwantha
           token: ${{ secrets.GITHUB_TOKEN }}
