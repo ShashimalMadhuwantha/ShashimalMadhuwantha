@@ -22,6 +22,24 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ShashimalMadhuwantha
 
+      - name: Normalize output filename
+        run: |
+          set -e
+          cd profile-3d-contrib
+          target=""
+          for f in profile-night-rainbow.svg profile-green-animate.svg profile-season-animate.svg profile-*.svg; do
+            if [ -f "$f" ]; then target="$f"; break; fi
+          done
+          if [ -z "$target" ]; then
+            target=$(ls -1 *.svg | head -n 1 || true)
+          fi
+          if [ -n "$target" ]; then
+            cp "$target" profile.svg
+          else
+            echo "No SVG generated" >&2
+            exit 1
+          fi
+
       - name: Publish images to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
