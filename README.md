@@ -84,7 +84,10 @@
 
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=shashimalmadhuwantha&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://readme-stats-github.pages.dev/api?username=ShashimalMadhuwantha&show_icons=true
+  " />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ShashimalMadhuwantha&layout=compact"
+  >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashimalmadhuwantha&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
 </div>
 
