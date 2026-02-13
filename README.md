@@ -84,12 +84,27 @@
 
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <img src="https://readme-stats-github.pages.dev/api?username=ShashimalMadhuwantha&show_icons=true
-  " />
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ShashimalMadhuwantha&layout=compact"
-  >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashimalmadhuwantha&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://readme-stats-github.pages.dev/api?username=ShashimalMadhuwantha&show_icons=true" 
+    height="170"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=ShashimalMadhuwantha&layout=compact" 
+    height="170"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShashimalMadhuwantha&theme=radical&hide_border=true&background=00000000" 
+    height="170"
+  />
+
 </div>
+
 
 <br/>
 
